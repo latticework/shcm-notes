@@ -1,6 +1,6 @@
 *[Home](../README.md) > Security*
 
-# Security Notes
+# SHCM Security Notes
 **SHCM** security-related notes
 
 > ## Table Of Contents
