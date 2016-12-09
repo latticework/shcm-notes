@@ -1,3 +1,5 @@
+*(Home)[../readme.md] > Security*
+
 # Security Notes
 **SHCM** security-related notes
 
