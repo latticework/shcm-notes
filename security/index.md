@@ -1,4 +1,4 @@
-*[Home](../readme.md) > Security*
+*[Home](../README.md) > Security*
 
 # Security Notes
 **SHCM** security-related notes
