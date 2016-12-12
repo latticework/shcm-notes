@@ -20,4 +20,5 @@ Web articles and posts useful for **SCHM** notification options.
 - [Branch](https://branch.io/pricing/): Branch's Free Core Deep Linking Platform
 - Android
   - [Configuring to launch app from SMS URL](http://stackoverflow.com/a/3865145/2240669) ([more](http://stackoverflow.com/a/16128007/2240669))
+- iOS
   - [Inter-App Communication](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html) (explains custom URL schemes)
