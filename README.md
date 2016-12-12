@@ -6,3 +6,4 @@ A place to put design notes for the **Safe Harbor Connect Ministry** software de
 
 > ## Table Of Contents
 > * [Security](./security/index.md)
+> * [Notifications](./notifications/index.md)
