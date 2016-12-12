@@ -22,6 +22,6 @@ Web articles and posts useful for **SCHM** security practices or systems.
 - npm
   - [node-rsa](https://www.npmjs.com/package/node-rsa) Node.js RSA library
 - Android
-  - [Android Keystore System](https://developer.android.com/training/articles/keystore.html)
+  - [Android Keystore System](https://developer.android.com/training/articles/keystore.html){target="_blank"}
 - iOS
   - [Adding Keychain Services to Your Application](https://developer.apple.com/library/content/documentation/Security/Conceptual/keychainServConcepts/iPhoneTasks/iPhoneTasks.html)
